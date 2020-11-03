@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity() {
         t4.setOnClickListener{Xoxo(t4)}
         t5.setOnClickListener{Xoxo(t5)}
         t6.setOnClickListener{Xoxo(t6)}
+
+
         t7.setOnClickListener{Xoxo(t7)}
         t8.setOnClickListener{Xoxo(t8)}
         t9.setOnClickListener{Xoxo(t9)}
